@@ -24,8 +24,14 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 | Day | Lab | Week |
 | --- | --- | --- |
 | 1 | [How a Computer Works: From Transistors to Programs](labs/sections/computing-foundations/how-computers-work/week-01/day-001-how-a-computer-works-from-transistors/README.md) | 1 |
+| 2 | [The CPU: Fetch, Decode, Execute](labs/sections/computing-foundations/how-computers-work/week-01/day-002-the-cpu-fetch-decode-execute/README.md) | 1 |
+| 3 | [Memory Hierarchy: Registers, RAM, and Storage](labs/sections/computing-foundations/how-computers-work/week-01/day-003-memory-hierarchy-registers-ram-and-storage/README.md) | 1 |
+| 4 | [Binary and Data Representation: Bits, Bytes, and Numbers](labs/sections/computing-foundations/how-computers-work/week-01/day-004-binary-and-data-representation-bits-bytes/README.md) | 1 |
+| 5 | [Text, Images, and Sound as Data](labs/sections/computing-foundations/how-computers-work/week-01/day-005-text-images-and-sound-as-data/README.md) | 1 |
+| 6 | [Operating Systems: What They Do and Why](labs/sections/computing-foundations/how-computers-work/week-01/day-006-operating-systems-what-they-do-and/README.md) | 1 |
+| 7 | [Processes, Threads, and Scheduling](labs/sections/computing-foundations/how-computers-work/week-01/day-007-processes-threads-and-scheduling/README.md) | 1 |
 
-Day 1 sets the base; a new day is released with each blog post.
+7 days released so far; a new day is released with each blog post.
 
 ## The course
 
