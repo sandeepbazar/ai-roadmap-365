@@ -5,11 +5,9 @@
 <!-- generated-links:start — do not edit by hand; regenerate with `npm run update:links` -->
 - **Lesson title:** How a Computer Works: From Transistors to Programs
 - **Day number:** 1 of 365
-- **Local lesson page:** (course website) /day-001-how-a-computer-works-from-transistors (run `npm run dev` in the repository root first)
-- **Local hands-on page:** (course website) /labs/day-001-how-a-computer-works-from-transistors
-- **Published lesson (blog):** not deployed yet — set the deployment URL with `npm run configure` and this line updates everywhere.
-- **Private GitHub link:** https://github.com/sandeepbazar/ai-roadmap-365/tree/main/labs/sections/computing-foundations/how-computers-work/week-01/day-001-how-a-computer-works-from-transistors — open the hands-on files in the private GitHub repository (authentication required; the local links above work without it, even offline)
-- **Public GitHub link:** https://github.com/sandeepbazar/ai-roadmap-365/tree/main/labs/sections/computing-foundations/how-computers-work/week-01/day-001-how-a-computer-works-from-transistors (live once this day has been released to the public repository)
+- **Lesson article:** published on the course blog (one lesson per day); the article for this day links back to this lab.
+- **Lab files:** everything you need is in [this directory](./) — follow “How to run” below.
+- **Browse the course locally:** from the repository root, this lab also appears in the course website at `/labs/day-001-how-a-computer-works-from-transistors` when the site is running.
 <!-- generated-links:end -->
 
 ## Purpose
