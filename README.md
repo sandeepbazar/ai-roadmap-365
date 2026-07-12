@@ -23,7 +23,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 **49 of 365 days released.** Expand a section, then a category, to find a lab.
 
-<details open>
+<details>
 <summary><h3>S01 · Computing Foundations — 42 lab(s)</h3></summary>
 
 <details>
@@ -113,7 +113,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 </details>
 
-<details open>
+<details>
 <summary><h3>S02 · Programming with Python — 7 lab(s)</h3></summary>
 
 <details>
