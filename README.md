@@ -21,10 +21,10 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 ## Released labs
 
-**35 of 365 days released.** Expand a section, then a category, to find a lab.
+**42 of 365 days released.** Expand a section, then a category, to find a lab.
 
 <details open>
-<summary><h3>S01 · Computing Foundations — 35 lab(s)</h3></summary>
+<summary><h3>S01 · Computing Foundations — 42 lab(s)</h3></summary>
 
 <details>
 <summary>Days 1-7 · Inside the Machine</summary>
@@ -96,10 +96,24 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 | 35 | [Git Workflows for Real Projects](labs/sections/computing-foundations/day-035-git-workflows-for-real-projects/README.md) |
 
 </details>
+<details>
+<summary>Days 36-42 · Systems Foundations: Storage, Observability, and Tooling</summary>
+
+| Day | Lab |
+| --- | --- |
+| 36 | [Choosing and Configuring a Code Editor](labs/sections/computing-foundations/day-036-choosing-and-configuring-a-code-editor/README.md) |
+| 37 | [Debuggers, Linters, and Formatters](labs/sections/computing-foundations/day-037-debuggers-linters-and-formatters/README.md) |
+| 38 | [Regular Expressions](labs/sections/computing-foundations/day-038-regular-expressions/README.md) |
+| 39 | [Data Storage: Files, Databases, Object Storage, and Caches](labs/sections/computing-foundations/day-039-data-storage-files-databases-object-storage/README.md) |
+| 40 | [Observability: Logs, Metrics, Traces, and Dashboards](labs/sections/computing-foundations/day-040-observability-logs-metrics-traces-and-dashboards/README.md) |
+| 41 | [Thinking in Automation: Scripts, Hooks, and Pipelines](labs/sections/computing-foundations/day-041-thinking-in-automation-scripts-hooks-and/README.md) |
+| 42 | [Section Review: Your Computing Foundations Toolkit](labs/sections/computing-foundations/day-042-section-review-your-computing-foundations-toolkit/README.md) |
 
 </details>
 
-35 days released so far; a new day is released with each blog post.
+</details>
+
+42 days released so far; a new day is released with each blog post.
 
 ## The course
 
