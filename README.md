@@ -21,10 +21,10 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 ## Released labs
 
-**21 of 365 days released.** Expand a section, then a category, to find a lab.
+**28 of 365 days released.** Expand a section, then a category, to find a lab.
 
 <details open>
-<summary><h3>S01 · Computing Foundations — 21 lab(s)</h3></summary>
+<summary><h3>S01 · Computing Foundations — 28 lab(s)</h3></summary>
 
 <details>
 <summary>Days 1-7 · Inside the Machine</summary>
@@ -68,10 +68,24 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 | 21 | [Inspecting Traffic with curl and Developer Tools](labs/sections/computing-foundations/day-021-inspecting-traffic-with-curl-and-developer/README.md) |
 
 </details>
+<details>
+<summary>Days 22-28 · APIs and the Web</summary>
+
+| Day | Lab |
+| --- | --- |
+| 22 | [What an API Is and Why Everything Has One](labs/sections/computing-foundations/day-022-what-an-api-is-and-why/README.md) |
+| 23 | [REST Fundamentals: Resources and Verbs](labs/sections/computing-foundations/day-023-rest-fundamentals-resources-and-verbs/README.md) |
+| 24 | [JSON and Data Serialization](labs/sections/computing-foundations/day-024-json-and-data-serialization/README.md) |
+| 25 | [API Authentication: Keys, Tokens, and OAuth](labs/sections/computing-foundations/day-025-api-authentication-keys-tokens-and-oauth/README.md) |
+| 26 | [Webhooks and Event-Driven APIs](labs/sections/computing-foundations/day-026-webhooks-and-event-driven-apis/README.md) |
+| 27 | [Rate Limits, Pagination, and Error Handling](labs/sections/computing-foundations/day-027-rate-limits-pagination-and-error-handling/README.md) |
+| 28 | [Consuming a Public API from the Command Line](labs/sections/computing-foundations/day-028-consuming-a-public-api-from-the/README.md) |
 
 </details>
 
-21 days released so far; a new day is released with each blog post.
+</details>
+
+28 days released so far; a new day is released with each blog post.
 
 ## The course
 
