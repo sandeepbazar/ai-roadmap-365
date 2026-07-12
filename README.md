@@ -21,7 +21,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 ## Released labs
 
-**42 of 365 days released.** Expand a section, then a category, to find a lab.
+**49 of 365 days released.** Expand a section, then a category, to find a lab.
 
 <details open>
 <summary><h3>S01 · Computing Foundations — 42 lab(s)</h3></summary>
@@ -113,7 +113,27 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 </details>
 
-42 days released so far; a new day is released with each blog post.
+<details open>
+<summary><h3>S02 · Programming with Python — 7 lab(s)</h3></summary>
+
+<details>
+<summary>Days 43-49 · Python Setup and First Programs</summary>
+
+| Day | Lab |
+| --- | --- |
+| 43 | [Installing Python and Virtual Environments](labs/sections/programming-with-python/day-043-installing-python-and-virtual-environments/README.md) |
+| 44 | [Variables and Types](labs/sections/programming-with-python/day-044-variables-and-types/README.md) |
+| 45 | [Strings and Text Processing](labs/sections/programming-with-python/day-045-strings-and-text-processing/README.md) |
+| 46 | [Numbers, Math, and Precision](labs/sections/programming-with-python/day-046-numbers-math-and-precision/README.md) |
+| 47 | [Input, Output, and f-strings](labs/sections/programming-with-python/day-047-input-output-and-f-strings/README.md) |
+| 48 | [Reading Error Messages and Debugging](labs/sections/programming-with-python/day-048-reading-error-messages-and-debugging/README.md) |
+| 49 | [Your First Real Program](labs/sections/programming-with-python/day-049-your-first-real-program/README.md) |
+
+</details>
+
+</details>
+
+49 days released so far; a new day is released with each blog post.
 
 ## The course
 
