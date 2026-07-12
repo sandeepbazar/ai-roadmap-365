@@ -21,10 +21,10 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 ## Released labs
 
-**28 of 365 days released.** Expand a section, then a category, to find a lab.
+**35 of 365 days released.** Expand a section, then a category, to find a lab.
 
 <details open>
-<summary><h3>S01 · Computing Foundations — 28 lab(s)</h3></summary>
+<summary><h3>S01 · Computing Foundations — 35 lab(s)</h3></summary>
 
 <details>
 <summary>Days 1-7 · Inside the Machine</summary>
@@ -82,10 +82,24 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 | 28 | [Consuming a Public API from the Command Line](labs/sections/computing-foundations/day-028-consuming-a-public-api-from-the/README.md) |
 
 </details>
+<details>
+<summary>Days 29-35 · Git and GitHub</summary>
+
+| Day | Lab |
+| --- | --- |
+| 29 | [Why Version Control Exists](labs/sections/computing-foundations/day-029-why-version-control-exists/README.md) |
+| 30 | [Git Fundamentals: Repositories, Staging, and Commits](labs/sections/computing-foundations/day-030-git-fundamentals-repositories-staging-and-commits/README.md) |
+| 31 | [Branching and Merging](labs/sections/computing-foundations/day-031-branching-and-merging/README.md) |
+| 32 | [Remotes and GitHub](labs/sections/computing-foundations/day-032-remotes-and-github/README.md) |
+| 33 | [Pull Requests and Code Review](labs/sections/computing-foundations/day-033-pull-requests-and-code-review/README.md) |
+| 34 | [Undoing Things: Reset, Revert, and Reflog](labs/sections/computing-foundations/day-034-undoing-things-reset-revert-and-reflog/README.md) |
+| 35 | [Git Workflows for Real Projects](labs/sections/computing-foundations/day-035-git-workflows-for-real-projects/README.md) |
 
 </details>
 
-28 days released so far; a new day is released with each blog post.
+</details>
+
+35 days released so far; a new day is released with each blog post.
 
 ## The course
 
