@@ -30,8 +30,15 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 | 5 | [Text, Images, and Sound as Data](labs/sections/computing-foundations/how-computers-work/week-01/day-005-text-images-and-sound-as-data/README.md) | 1 |
 | 6 | [Operating Systems: What They Do and Why](labs/sections/computing-foundations/how-computers-work/week-01/day-006-operating-systems-what-they-do-and/README.md) | 1 |
 | 7 | [Processes, Threads, and Scheduling](labs/sections/computing-foundations/how-computers-work/week-01/day-007-processes-threads-and-scheduling/README.md) | 1 |
+| 8 | [Meet the Terminal: Shells, Prompts, and Commands](labs/sections/computing-foundations/how-computers-work/week-02/day-008-meet-the-terminal-shells-prompts-and/README.md) | 2 |
+| 9 | [Navigating the Filesystem: Paths, Files, and Permissions](labs/sections/computing-foundations/how-computers-work/week-02/day-009-navigating-the-filesystem-paths-files-and/README.md) | 2 |
+| 10 | [Working with Text: cat, grep, sed, and Pipes](labs/sections/computing-foundations/how-computers-work/week-02/day-010-working-with-text-cat-grep-sed/README.md) | 2 |
+| 11 | [Environment Variables and Shell Configuration](labs/sections/computing-foundations/how-computers-work/week-02/day-011-environment-variables-and-shell-configuration/README.md) | 2 |
+| 12 | [Shell Scripting: Variables, Loops, and Conditionals](labs/sections/computing-foundations/how-computers-work/week-02/day-012-shell-scripting-variables-loops-and-conditionals/README.md) | 2 |
+| 13 | [Package Managers: Homebrew, apt, and winget](labs/sections/computing-foundations/how-computers-work/week-02/day-013-package-managers-homebrew-apt-and-winget/README.md) | 2 |
+| 14 | [Automating Tasks with Shell Scripts and cron](labs/sections/computing-foundations/how-computers-work/week-02/day-014-automating-tasks-with-shell-scripts-and/README.md) | 2 |
 
-7 days released so far; a new day is released with each blog post.
+14 days released so far; a new day is released with each blog post.
 
 ## The course
 
