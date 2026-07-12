@@ -3,7 +3,7 @@ day: 13
 kind: command-line-inspection
 languages: [bash]
 setup_commands:
-  - cd labs/sections/computing-foundations/how-computers-work/week-02/day-013-package-managers-homebrew-apt-and-winget
+  - cd labs/sections/computing-foundations/day-013-package-managers-homebrew-apt-and-winget
 run_commands:
   - bash examples/detect_pkg_manager.sh
   - bash starter/detect_pkg_manager.sh

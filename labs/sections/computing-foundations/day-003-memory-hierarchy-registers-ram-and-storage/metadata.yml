@@ -3,7 +3,7 @@ day: 3
 kind: command-line-inspection
 languages: [bash]
 setup_commands:
-  - cd labs/sections/computing-foundations/how-computers-work/week-01/day-003-memory-hierarchy-registers-ram-and-storage
+  - cd labs/sections/computing-foundations/day-003-memory-hierarchy-registers-ram-and-storage
 run_commands:
   - bash examples/measure_read_speed.sh
   - bash starter/measure_read_speed.sh

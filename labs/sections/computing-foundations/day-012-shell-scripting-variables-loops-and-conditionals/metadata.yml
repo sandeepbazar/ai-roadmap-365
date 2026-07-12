@@ -3,7 +3,7 @@ day: 12
 kind: shell-scripting
 languages: [bash]
 setup_commands:
-  - cd labs/sections/computing-foundations/how-computers-work/week-02/day-012-shell-scripting-variables-loops-and-conditionals
+  - cd labs/sections/computing-foundations/day-012-shell-scripting-variables-loops-and-conditionals
 run_commands:
   - bash examples/backup_notes.sh examples/sample-notes
   - bash starter/backup_notes.sh examples/sample-notes

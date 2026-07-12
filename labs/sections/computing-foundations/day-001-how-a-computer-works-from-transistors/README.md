@@ -52,7 +52,7 @@ Everything in this lab is free: bash and every command used are open-source or s
 None. Clone the repository (or copy this directory) and you are ready:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-01/day-001-how-a-computer-works-from-transistors
+cd labs/sections/computing-foundations/day-001-how-a-computer-works-from-transistors
 ```
 
 ## File structure
@@ -152,4 +152,4 @@ See [security.md](security.md). Short version: the scripts run no network calls,
 ## Navigation
 
 - **Previous day:** none — this is Day 1.
-- **Next day:** Day 2 — The CPU: Fetch, Decode, Execute (`labs/sections/computing-foundations/how-computers-work/week-01/day-002-the-cpu-fetch-decode-execute/`, to be written).
+- **Next day:** Day 2 — The CPU: Fetch, Decode, Execute (`labs/sections/computing-foundations/day-002-the-cpu-fetch-decode-execute/`, to be written).

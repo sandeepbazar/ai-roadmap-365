@@ -67,7 +67,7 @@ them.
 None. Clone the repository (or copy this directory) and you are ready:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-02/day-014-automating-tasks-with-shell-scripts-and
+cd labs/sections/computing-foundations/day-014-automating-tasks-with-shell-scripts-and
 ```
 
 ## File structure
@@ -209,6 +209,6 @@ edits your crontab. Always dry-run a move-or-delete script first.
 ## Navigation
 
 - **Previous day:** Day 13 — Package Managers: Homebrew, apt, and winget
-  (`labs/sections/computing-foundations/how-computers-work/week-02/day-013-package-managers-homebrew-apt-and-winget/`).
+  (`labs/sections/computing-foundations/day-013-package-managers-homebrew-apt-and-winget/`).
 - **Next day:** Day 15 begins the next week (to be written). This lab feeds the
   **Week 2 project — a Personal Automation Script.**

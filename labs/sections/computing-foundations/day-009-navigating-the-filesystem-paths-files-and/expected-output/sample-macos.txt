@@ -1,11 +1,11 @@
 === Build and Explore a File Tree ===
-Workspace: /Users/sandeepbazar/01.Projects/education/ai-roadmap/labs/sections/computing-foundations/how-computers-work/week-02/day-009-navigating-the-filesystem-paths-files-and/tmp.explore.cMiSPh
+Workspace: <repo>/labs/sections/computing-foundations/day-009-navigating-the-filesystem-paths-files-and/tmp.explore.cMiSPh
 
-Working directory (pwd): /Users/sandeepbazar/01.Projects/education/ai-roadmap/labs/sections/computing-foundations/how-computers-work/week-02/day-009-navigating-the-filesystem-paths-files-and/tmp.explore.cMiSPh
+Working directory (pwd): <repo>/labs/sections/computing-foundations/day-009-navigating-the-filesystem-paths-files-and/tmp.explore.cMiSPh
 Created nested directories with: mkdir -p project/data
 
 Created files: data/notes.txt and report.md
-Contents of /Users/sandeepbazar/01.Projects/education/ai-roadmap/labs/sections/computing-foundations/how-computers-work/week-02/day-009-navigating-the-filesystem-paths-files-and/tmp.explore.cMiSPh/project (ls):
+Contents of <repo>/labs/sections/computing-foundations/day-009-navigating-the-filesystem-paths-files-and/tmp.explore.cMiSPh/project (ls):
 data
 report.md
 
@@ -31,4 +31,4 @@ notes.txt
 report.md
 
 === Done ===
-The trap will now remove /Users/sandeepbazar/01.Projects/education/ai-roadmap/labs/sections/computing-foundations/how-computers-work/week-02/day-009-navigating-the-filesystem-paths-files-and/tmp.explore.cMiSPh, leaving nothing behind.
+The trap will now remove <repo>/labs/sections/computing-foundations/day-009-navigating-the-filesystem-paths-files-and/tmp.explore.cMiSPh, leaving nothing behind.

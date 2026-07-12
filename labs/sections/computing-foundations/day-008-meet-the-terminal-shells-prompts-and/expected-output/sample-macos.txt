@@ -12,7 +12,7 @@ Shell process (ps -p $$):
 Prompt string (echo "$PS1"): (empty in this non-interactive run — try it in your interactive shell)
 
 --- A handful of everyday commands ---
-Working directory (pwd): /Users/sandeepbazar/01.Projects/education/ai-roadmap/labs/sections/computing-foundations/how-computers-work/week-02/day-008-meet-the-terminal-shells-prompts-and
+Working directory (pwd): <repo>/labs/sections/computing-foundations/day-008-meet-the-terminal-shells-prompts-and
 Echo demo (echo hello): hello
 Date (date): Sun Jul 12 13:32:42 IST 2026
 User (whoami): sandeepbazar

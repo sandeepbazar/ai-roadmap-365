@@ -52,7 +52,7 @@ Everything in this lab is free: bash and every utility used ship with your opera
 None. From the repository root:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-01/day-002-the-cpu-fetch-decode-execute
+cd labs/sections/computing-foundations/day-002-the-cpu-fetch-decode-execute
 ```
 
 ## File structure

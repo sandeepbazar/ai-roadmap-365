@@ -64,7 +64,7 @@ per-project environments — both optional and free.
 None. Clone the repository (or copy this directory) and you are ready:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-02/day-011-environment-variables-and-shell-configuration
+cd labs/sections/computing-foundations/day-011-environment-variables-and-shell-configuration
 ```
 
 ## File structure
@@ -127,7 +127,7 @@ real captured run:
 
 ```text
 === Environment Inspection ===
-HOME:  /Users/sandeepbazar
+HOME:  <home>
 USER:  sandeepbazar
 SHELL: /bin/zsh
 LANG:  C.UTF-8
@@ -209,6 +209,6 @@ obvious fake, and a real `.env` must always be listed in `.gitignore`.
 ## Navigation
 
 - **Previous day:** Day 10 — Working with Text: cat, grep, sed
-  (`labs/sections/computing-foundations/how-computers-work/week-02/day-010-working-with-text-cat-grep-sed/`).
+  (`labs/sections/computing-foundations/day-010-working-with-text-cat-grep-sed/`).
 - **Next day:** Day 12 — Shell Scripting: Variables, Loops, and Conditionals
-  (`labs/sections/computing-foundations/how-computers-work/week-02/day-012-shell-scripting-variables-loops-and-conditionals/`, to be written).
+  (`labs/sections/computing-foundations/day-012-shell-scripting-variables-loops-and-conditionals/`, to be written).

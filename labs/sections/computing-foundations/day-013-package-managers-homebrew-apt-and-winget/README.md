@@ -62,7 +62,7 @@ purchase is required.
 None. Copy this directory (or clone the repository) and you are ready:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-02/day-013-package-managers-homebrew-apt-and-winget
+cd labs/sections/computing-foundations/day-013-package-managers-homebrew-apt-and-winget
 ```
 
 ## File structure
@@ -207,5 +207,5 @@ deliberately and only from trusted repositories.
 
 ## Navigation
 
-- **Previous day:** Day 12 — Shell Scripting: Variables, Loops, and Conditionals (`labs/sections/computing-foundations/how-computers-work/week-02/day-012-shell-scripting-variables-loops-and-conditionals/`).
-- **Next day:** Day 14 — Automating Tasks with Shell Scripts and cron (`labs/sections/computing-foundations/how-computers-work/week-02/day-014-automating-tasks-with-shell-scripts-and/`, to be written).
+- **Previous day:** Day 12 — Shell Scripting: Variables, Loops, and Conditionals (`labs/sections/computing-foundations/day-012-shell-scripting-variables-loops-and-conditionals/`).
+- **Next day:** Day 14 — Automating Tasks with Shell Scripts and cron (`labs/sections/computing-foundations/day-014-automating-tasks-with-shell-scripts-and/`, to be written).

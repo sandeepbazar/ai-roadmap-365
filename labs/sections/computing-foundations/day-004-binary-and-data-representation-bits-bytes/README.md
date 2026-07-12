@@ -52,7 +52,7 @@ Everything in this lab is free: bash, `printf`, and `bc` are open-source and shi
 Usually none. If `bc` is missing (some minimal Linux images), install it with your package manager — one line, covered in [requirements/README.md](requirements/README.md). Then change into this directory:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-01/day-004-binary-and-data-representation-bits-bytes
+cd labs/sections/computing-foundations/day-004-binary-and-data-representation-bits-bytes
 ```
 
 ## File structure

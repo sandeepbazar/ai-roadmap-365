@@ -3,7 +3,7 @@ day: 11
 kind: configuration-activity
 languages: [bash]
 setup_commands:
-  - cd labs/sections/computing-foundations/how-computers-work/week-02/day-011-environment-variables-and-shell-configuration
+  - cd labs/sections/computing-foundations/day-011-environment-variables-and-shell-configuration
 run_commands:
   - bash examples/inspect_env.sh
   - bash starter/inspect_env.sh

@@ -58,7 +58,7 @@ ship with your OS. No account, API key, or purchase is needed.
 None. Clone the repository (or copy this directory) and you are ready:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-02/day-008-meet-the-terminal-shells-prompts-and
+cd labs/sections/computing-foundations/day-008-meet-the-terminal-shells-prompts-and
 ```
 
 ## File structure

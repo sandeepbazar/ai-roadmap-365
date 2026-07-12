@@ -3,7 +3,7 @@ day: 1
 kind: command-line-inspection
 languages: [bash]
 setup_commands:
-  - cd labs/sections/computing-foundations/how-computers-work/week-01/day-001-how-a-computer-works-from-transistors
+  - cd labs/sections/computing-foundations/day-001-how-a-computer-works-from-transistors
 run_commands:
   - bash examples/inspect_my_computer_completed.sh
   - bash starter/inspect_my_computer.sh

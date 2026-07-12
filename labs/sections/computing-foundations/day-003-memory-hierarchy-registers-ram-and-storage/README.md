@@ -62,7 +62,7 @@ purchases.
 None. Change into this directory:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-01/day-003-memory-hierarchy-registers-ram-and-storage
+cd labs/sections/computing-foundations/day-003-memory-hierarchy-registers-ram-and-storage
 ```
 
 ## File structure

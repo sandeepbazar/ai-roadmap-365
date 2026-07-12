@@ -53,7 +53,7 @@ Everything in this lab is free: bash and every command used ship with your opera
 None. Clone the repository (or copy this directory) and you are ready:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-01/day-007-processes-threads-and-scheduling
+cd labs/sections/computing-foundations/day-007-processes-threads-and-scheduling
 ```
 
 ## File structure
@@ -161,6 +161,6 @@ See [security.md](security.md). Short version: the scripts only ever signal the 
 
 ## Navigation
 
-- **Previous day:** Day 6 — Operating Systems: What They Do and Why (`labs/sections/computing-foundations/how-computers-work/week-01/day-006-operating-systems-what-they-do-and/`).
+- **Previous day:** Day 6 — Operating Systems: What They Do and Why (`labs/sections/computing-foundations/day-006-operating-systems-what-they-do-and/`).
 - **Next day:** Day 8 — the first day of Week 2, The Command Line (`labs/sections/computing-foundations/command-line/week-02/`, to be written).
-- **Weekly project:** Annotated Machine Teardown (`labs/sections/computing-foundations/how-computers-work/week-01/project/`).
+- **Weekly project:** Annotated Machine Teardown (`labs/sections/computing-foundations/project/`).

@@ -69,7 +69,7 @@ needed — the sample files are committed to the repository, and
 None. From the repository root:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-01/day-005-text-images-and-sound-as-data
+cd labs/sections/computing-foundations/day-005-text-images-and-sound-as-data
 ```
 
 ## File structure

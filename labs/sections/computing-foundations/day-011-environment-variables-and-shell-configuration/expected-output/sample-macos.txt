@@ -3,7 +3,7 @@ $ bash examples/inspect_env.sh
 #  a real machine's PATH is often longer — yours will differ)
 
 === Environment Inspection ===
-HOME:  /Users/sandeepbazar
+HOME:  <home>
 USER:  sandeepbazar
 SHELL: /bin/zsh
 LANG:  C.UTF-8

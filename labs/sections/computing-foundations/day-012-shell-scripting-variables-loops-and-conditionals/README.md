@@ -65,7 +65,7 @@ No account, API key, network access, or purchase is needed.
 None required. Copy this directory (or clone the repository) and change into it:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-02/day-012-shell-scripting-variables-loops-and-conditionals
+cd labs/sections/computing-foundations/day-012-shell-scripting-variables-loops-and-conditionals
 ```
 
 To optionally install ShellCheck: `brew install shellcheck` (macOS) or
@@ -183,5 +183,5 @@ input as commands.
 
 ## Navigation
 
-- **Previous day:** Day 11 — Environment Variables and Shell Configuration (`labs/sections/computing-foundations/how-computers-work/week-02/day-011-environment-variables-and-shell-configuration/`).
-- **Next day:** Day 13 — Package Managers: Homebrew, apt, and winget (`labs/sections/computing-foundations/how-computers-work/week-02/day-013-package-managers-homebrew-apt-and-winget/`).
+- **Previous day:** Day 11 — Environment Variables and Shell Configuration (`labs/sections/computing-foundations/day-011-environment-variables-and-shell-configuration/`).
+- **Next day:** Day 13 — Package Managers: Homebrew, apt, and winget (`labs/sections/computing-foundations/day-013-package-managers-homebrew-apt-and-winget/`).

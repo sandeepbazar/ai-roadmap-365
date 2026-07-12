@@ -65,7 +65,7 @@ ship with your OS. No account, API key, or purchase is needed.
 None. Clone the repository (or copy this directory) and you are ready:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-02/day-009-navigating-the-filesystem-paths-files-and
+cd labs/sections/computing-foundations/day-009-navigating-the-filesystem-paths-files-and
 ```
 
 ## File structure
@@ -194,5 +194,5 @@ explains, in general, why `rm -rf` must be treated with care.
 
 ## Navigation
 
-- **Previous day:** Day 8 — the lab in `labs/sections/computing-foundations/how-computers-work/week-02/` for the preceding lesson.
-- **Next day:** Day 10 — Working with Text: cat, grep, sed, and Pipes (`labs/sections/computing-foundations/how-computers-work/week-02/day-010-working-with-text-cat-grep-sed/`, to be written).
+- **Previous day:** Day 8 — the lab in `labs/sections/computing-foundations/` for the preceding lesson.
+- **Next day:** Day 10 — Working with Text: cat, grep, sed, and Pipes (`labs/sections/computing-foundations/day-010-working-with-text-cat-grep-sed/`, to be written).

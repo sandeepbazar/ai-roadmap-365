@@ -60,7 +60,7 @@ purchases.
 None. Change into this directory:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-01/day-006-operating-systems-what-they-do-and
+cd labs/sections/computing-foundations/day-006-operating-systems-what-they-do-and
 ```
 
 ## File structure

@@ -3,7 +3,7 @@ day: 9
 kind: command-line-inspection
 languages: [bash]
 setup_commands:
-  - cd labs/sections/computing-foundations/how-computers-work/week-02/day-009-navigating-the-filesystem-paths-files-and
+  - cd labs/sections/computing-foundations/day-009-navigating-the-filesystem-paths-files-and
 run_commands:
   - bash examples/explore_files.sh
   - bash starter/explore_files.sh

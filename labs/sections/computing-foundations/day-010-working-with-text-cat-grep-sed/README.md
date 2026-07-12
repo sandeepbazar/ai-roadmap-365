@@ -63,7 +63,7 @@ free alternative to `grep`, but this lab never requires it.
 None. Clone the repository (or copy this directory) and you are ready:
 
 ```bash
-cd labs/sections/computing-foundations/how-computers-work/week-02/day-010-working-with-text-cat-grep-sed
+cd labs/sections/computing-foundations/day-010-working-with-text-cat-grep-sed
 ```
 
 ## File structure
@@ -207,6 +207,6 @@ internet, and there is no personal data.
 ## Navigation
 
 - **Previous day:** Day 9 — Navigating the Filesystem: Paths, Files, and
-  Permissions (`labs/sections/computing-foundations/how-computers-work/week-02/day-009-navigating-the-filesystem-paths-files-and/`).
+  Permissions (`labs/sections/computing-foundations/day-009-navigating-the-filesystem-paths-files-and/`).
 - **Next day:** Day 11 — Environment Variables and Shell Configuration
-  (`labs/sections/computing-foundations/how-computers-work/week-02/day-011-environment-variables-and-shell-configuration/`, to be written).
+  (`labs/sections/computing-foundations/day-011-environment-variables-and-shell-configuration/`, to be written).
