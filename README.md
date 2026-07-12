@@ -24,7 +24,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 **21 of 365 days released.** Expand a section, then a category, to find a lab.
 
 <details open>
-<summary><strong>S01 · Computing Foundations</strong> — 21 lab(s)</summary>
+<summary><h3>S01 · Computing Foundations — 21 lab(s)</h3></summary>
 
 <details>
 <summary>Days 1-7 · Inside the Machine</summary>
