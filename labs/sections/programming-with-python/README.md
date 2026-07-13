@@ -4,7 +4,7 @@
 
 Hands-on companions to this section's lessons. Each day directory is self-contained: open it, follow its README, finish with its tests passing.
 
-**14 of 56 labs written.** Expand a subsection below to see its days.
+**21 of 56 labs written.** Expand a subsection below to see its days.
 
 <details>
 <summary><strong>Days 43-49 · Python Setup and First Programs</strong> — 7/7 complete</summary>
@@ -40,24 +40,24 @@ Hands-on companions to this section's lessons. Each day directory is self-contai
 
 </details>
 
-<details open>
-<summary><strong>Days 57-63 · Functions and Program Design</strong> — 0/7 complete</summary>
+<details>
+<summary><strong>Days 57-63 · Functions and Program Design</strong> — 7/7 complete</summary>
 
 | Day | Lesson | Status |
 | --- | ------ | ------ |
-| Day 057 | Day 057: Functions: Definition, Arguments, and Return Values | planned |
-| Day 058 | Day 058: Scope, Closures, and *args/**kwargs | planned |
-| Day 059 | Day 059: Modules, Imports, and Project Layout | planned |
-| Day 060 | Day 060: A Tour of the Standard Library | planned |
-| Day 061 | Day 061: Writing Readable Code | planned |
-| Day 062 | Day 062: Recursion | planned |
-| Day 063 | Day 063: Designing a Small Program Well | planned |
+| Day 057 | [Day 057: Functions: Definition, Arguments, and Return Values](./day-057-functions-definition-arguments-and-return-values/) | complete |
+| Day 058 | [Day 058: Scope, Closures, and *args/**kwargs](./day-058-scope-closures-and-args-kwargs/) | complete |
+| Day 059 | [Day 059: Modules, Imports, and Project Layout](./day-059-modules-imports-and-project-layout/) | complete |
+| Day 060 | [Day 060: A Tour of the Standard Library](./day-060-a-tour-of-the-standard-library/) | complete |
+| Day 061 | [Day 061: Writing Readable Code](./day-061-writing-readable-code/) | complete |
+| Day 062 | [Day 062: Recursion](./day-062-recursion/) | complete |
+| Day 063 | [Day 063: Designing a Small Program Well](./day-063-designing-a-small-program-well/) | complete |
 
 **Project:** Flashcard Study App — Build a spaced-repetition flashcard CLI organized into clean modules with documented functions.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Days 64-70 · Files, Errors, and Object-Oriented Python</strong> — 0/7 complete</summary>
 
 | Day | Lesson | Status |

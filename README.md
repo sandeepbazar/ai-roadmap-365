@@ -21,7 +21,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 ## Released labs
 
-**56 of 365 days released.** Expand a course, then a subsection, to find a lab.
+**63 of 365 days released.** Expand a course, then a subsection, to find a lab.
 
 <details>
 <summary><h3>Course01 · Computing Foundations — 42 lab(s)</h3></summary>
@@ -114,7 +114,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 </details>
 
 <details>
-<summary><h3>Course02 · Programming with Python — 14 lab(s)</h3></summary>
+<summary><h3>Course02 · Programming with Python — 21 lab(s)</h3></summary>
 
 <details>
 <summary>Days 43-49 · Python Setup and First Programs</summary>
@@ -144,10 +144,24 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 | 56 | [Building a Data-Driven CLI](labs/sections/programming-with-python/day-056-building-a-data-driven-cli/README.md) |
 
 </details>
+<details>
+<summary>Days 57-63 · Functions and Program Design</summary>
+
+| Day | Lab |
+| --- | --- |
+| 57 | [Functions: Definition, Arguments, and Return Values](labs/sections/programming-with-python/day-057-functions-definition-arguments-and-return-values/README.md) |
+| 58 | [Scope, Closures, and *args/**kwargs](labs/sections/programming-with-python/day-058-scope-closures-and-args-kwargs/README.md) |
+| 59 | [Modules, Imports, and Project Layout](labs/sections/programming-with-python/day-059-modules-imports-and-project-layout/README.md) |
+| 60 | [A Tour of the Standard Library](labs/sections/programming-with-python/day-060-a-tour-of-the-standard-library/README.md) |
+| 61 | [Writing Readable Code](labs/sections/programming-with-python/day-061-writing-readable-code/README.md) |
+| 62 | [Recursion](labs/sections/programming-with-python/day-062-recursion/README.md) |
+| 63 | [Designing a Small Program Well](labs/sections/programming-with-python/day-063-designing-a-small-program-well/README.md) |
 
 </details>
 
-56 days released so far; a new day is released with each blog post.
+</details>
+
+63 days released so far; a new day is released with each blog post.
 
 ## The course
 
