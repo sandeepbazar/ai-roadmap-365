@@ -21,7 +21,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 ## Released labs
 
-**49 of 365 days released.** Expand a course, then a subsection, to find a lab.
+**56 of 365 days released.** Expand a course, then a subsection, to find a lab.
 
 <details>
 <summary><h3>Course01 · Computing Foundations — 42 lab(s)</h3></summary>
@@ -114,7 +114,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 </details>
 
 <details>
-<summary><h3>Course02 · Programming with Python — 7 lab(s)</h3></summary>
+<summary><h3>Course02 · Programming with Python — 14 lab(s)</h3></summary>
 
 <details>
 <summary>Days 43-49 · Python Setup and First Programs</summary>
@@ -130,10 +130,24 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 | 49 | [Your First Real Program](labs/sections/programming-with-python/day-049-your-first-real-program/README.md) |
 
 </details>
+<details>
+<summary>Days 50-56 · Control Flow and Collections</summary>
+
+| Day | Lab |
+| --- | --- |
+| 50 | [Conditionals and Boolean Logic](labs/sections/programming-with-python/day-050-conditionals-and-boolean-logic/README.md) |
+| 51 | [Loops: for, while, and Iteration Patterns](labs/sections/programming-with-python/day-051-loops-for-while-and-iteration-patterns/README.md) |
+| 52 | [Lists in Depth](labs/sections/programming-with-python/day-052-lists-in-depth/README.md) |
+| 53 | [Dictionaries in Depth](labs/sections/programming-with-python/day-053-dictionaries-in-depth/README.md) |
+| 54 | [Tuples, Sets, and Choosing a Collection](labs/sections/programming-with-python/day-054-tuples-sets-and-choosing-a-collection/README.md) |
+| 55 | [Comprehensions and Iterator Thinking](labs/sections/programming-with-python/day-055-comprehensions-and-iterator-thinking/README.md) |
+| 56 | [Building a Data-Driven CLI](labs/sections/programming-with-python/day-056-building-a-data-driven-cli/README.md) |
 
 </details>
 
-49 days released so far; a new day is released with each blog post.
+</details>
+
+56 days released so far; a new day is released with each blog post.
 
 ## The course
 
