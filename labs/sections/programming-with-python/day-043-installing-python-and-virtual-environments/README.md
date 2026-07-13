@@ -31,7 +31,7 @@ the isolation is real. No packages are downloaded and no network is used.
 
 - The Day 43 lesson (read it first — it explains every concept this lab
   demonstrates).
-- Section 1 fluency: the terminal, `PATH` (Day 11), and package managers (Day 13).
+- Course 1 fluency: the terminal, `PATH` (Day 11), and package managers (Day 13).
 - Python 3 installed (`python3 --version` prints 3.x). See
   `requirements/README.md` if it is missing.
 

@@ -12,7 +12,7 @@ Testing <repo>/labs/sections/computing-foundations/day-042-section-review-your-c
   ok: git init + commit skill passes
   ok: sqlite query skill passes
   ok: shell pipeline skill passes
-  ok: reports ready for Section 2
+  ok: reports ready for Course 2
 Note: starter/toolkit_check.sh still has unfilled exercises — testing structure only.
 Testing <repo>/labs/sections/computing-foundations/day-042-section-review-your-computing-foundations-toolkit/starter/toolkit_check.sh ...
   ok: script exits successfully

@@ -43,7 +43,7 @@ run_check_script() {
   check "prints readiness block"      "$(has "${output}" '^-- Readiness --$')"
   check "prints report footer"        "$(has "${output}" '^=== End of check ===$')"
 
-  # Every tool line maps to a Section 1 day.
+  # Every tool line maps to a Course 1 day.
   check "tool lines map to a day" "$(has "${output}" 'maps to Day')"
 
   if [ "${strict}" = "strict" ]; then
@@ -56,7 +56,7 @@ run_check_script() {
     check "sqlite query skill passes"      "$(echo "${output}" | grep -E '^\[ok\]   sqlite query works' >/dev/null && echo yes || echo no)"
     check "shell pipeline skill passes"    "$(echo "${output}" | grep -E '^\[ok\]   shell pipeline works' >/dev/null && echo yes || echo no)"
     # Readiness verdict for a fully-equipped machine.
-    check "reports ready for Section 2" "$(has "${output}" 'You are ready for Section 2')"
+    check "reports ready for Course 2" "$(has "${output}" 'You are ready for Course 2')"
   fi
 }
 

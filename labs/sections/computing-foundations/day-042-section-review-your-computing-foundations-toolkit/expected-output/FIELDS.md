@@ -7,14 +7,14 @@ A correct run of `toolkit_check.sh` prints, in order:
 3. `Operating system kernel: Darwin` (macOS) or `Linux`
 4. `-- Tool inventory --`
 5. Six tool lines, each `[ok]` or `[--]`, for: `shell`, `git`, `curl`,
-   `python3`, `sqlite3`, `editor` — every line names the Section 1 day it
+   `python3`, `sqlite3`, `editor` — every line names the Course 1 day it
    maps to (contains `maps to Day`).
 6. `-- Skill checks --`
 7. Three skill lines, each `[ok]` or `[--]`:
    `git init + commit works`, `shell pipeline works`, `sqlite query works`.
 8. `-- Readiness --`
 9. `Tools present: <n> / 6   Skills passed: <n> / 3`
-10. A verdict line: `You are ready for Section 2. ...` when git, the
+10. A verdict line: `You are ready for Course 2. ...` when git, the
     pipeline, and python3 are all present, otherwise the "Almost there" line.
 11. `=== End of check ===`
 

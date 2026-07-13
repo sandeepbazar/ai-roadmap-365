@@ -17,5 +17,5 @@ python3 --version
 If that prints `Python 3.x.y`, you are ready. There is deliberately no
 `requirements.txt` here: the point of the lab is that precision-correct money
 math needs no third-party library at all — the batteries are already
-included. Section 3 of the course previews **NumPy**, which you *would*
+included. Course 3 of the course previews **NumPy**, which you *would*
 install for array math, but this lab does not need it.

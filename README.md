@@ -1,6 +1,6 @@
-# 365 Days of AI — hands-on labs
+# 365 Days of AI Mastery — hands-on labs
 
-One practical, self-contained lab for every day of the **365 Days of AI** course — a year-long path from computing foundations to building and shipping production AI systems. This repository holds the hands-on exercises; each daily lesson article is published on the course blog and links to its lab here.
+One practical, self-contained lab for every day of **365 Days of AI Mastery** — a year-long path, delivered as nine standalone courses, from computing foundations to building and shipping production AI systems. This repository holds the hands-on exercises; each daily lesson article is published on the course blog and links to its lab here.
 
 ## How to use a lab
 
@@ -21,10 +21,10 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 ## Released labs
 
-**49 of 365 days released.** Expand a section, then a category, to find a lab.
+**49 of 365 days released.** Expand a course, then a subsection, to find a lab.
 
 <details>
-<summary><h3>S01 · Computing Foundations — 42 lab(s)</h3></summary>
+<summary><h3>Course01 · Computing Foundations — 42 lab(s)</h3></summary>
 
 <details>
 <summary>Days 1-7 · Inside the Machine</summary>
@@ -114,7 +114,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 </details>
 
 <details>
-<summary><h3>S02 · Programming with Python — 7 lab(s)</h3></summary>
+<summary><h3>Course02 · Programming with Python — 7 lab(s)</h3></summary>
 
 <details>
 <summary>Days 43-49 · Python Setup and First Programs</summary>

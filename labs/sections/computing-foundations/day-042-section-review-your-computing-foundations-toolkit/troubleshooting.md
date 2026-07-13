@@ -10,7 +10,7 @@ table to turn each `[--]` line into a plan.
 | ------------ | ------- | ---------- |
 | `git` | Days 29-35 | Install git (Day 13 covered package managers), then redo Day 30's commit flow |
 | `curl` | Day 21 | Install curl; Day 21 shows how to inspect traffic with it |
-| `python3` | Day 15+ | Install python3 — Section 2 needs it; the machine/OS week (1-7) covers what an install is |
+| `python3` | Day 15+ | Install python3 — Course 2 needs it; the machine/OS week (1-7) covers what an install is |
 | `sqlite3` | Day 39 | `brew install sqlite` / `apt install sqlite3`; Day 39 explains when a database beats a file |
 | `editor` (unset `$EDITOR`, none on PATH) | Day 36 | Choose and configure an editor, then `export EDITOR=<your-editor>` |
 

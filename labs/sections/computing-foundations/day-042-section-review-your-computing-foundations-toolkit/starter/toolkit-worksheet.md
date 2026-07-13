@@ -1,9 +1,9 @@
 # Computing Foundations self-assessment — Day 042 worksheet
 
 This is the practice assignment. Fill it in honestly — it is a repair map,
-not a grade. Rate your confidence in each of the six areas of Section 1 from
+not a grade. Rate your confidence in each of the six areas of Course 1 from
 **1 (shaky)** to **5 (solid)**, and for each area note the exact day you would
-revisit to improve. Keep this file: it is your personal map into Section 2.
+revisit to improve. Keep this file: it is your personal map into Course 2.
 
 ## Confidence ratings
 
@@ -34,7 +34,7 @@ Note any tool that reported `[--]` and the day it maps to:
 Write one short paragraph (5-8 sentences) answering all three:
 
 1. Which single area is your weakest, and why do you think so?
-2. Which exact day will you revisit before or during Section 2?
+2. Which exact day will you revisit before or during Course 2?
 3. What specifically do you expect to relearn there?
 
 > _(write here)_

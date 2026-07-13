@@ -12,29 +12,29 @@
 
 ## Purpose
 
-Day 42 closes Section 1 by consolidating six weeks of foundations. This lab
+Day 42 closes Course 1 by consolidating six weeks of foundations. This lab
 makes that consolidation concrete on **your own machine**: a capstone script
-inspects your computer for the core Section 1 toolkit — a shell, `git`,
+inspects your computer for the core Course 1 toolkit — a shell, `git`,
 `curl`, `python3`, `sqlite3`, and an editor — reports each tool's version and
 the day that taught it, then runs three live skill checks (make a git repo,
 run a shell pipeline, query a SQLite database) that exercise skills from
 across the section. The output is a **readiness report**: proof that the
-foundation is real, and a pointer to any gap you should fill before Section 2.
+foundation is real, and a pointer to any gap you should fill before Course 2.
 
 ## Learning objectives
 
 - Run a capstone inspection script and read a readiness report.
-- Confirm the core Section 1 tools are installed and note their versions.
+- Confirm the core Course 1 tools are installed and note their versions.
 - Perform three cross-section skills end to end: a git commit, a shell
   pipeline, and a SQLite query.
-- Map each tool and skill back to the day of Section 1 that taught it.
+- Map each tool and skill back to the day of Course 1 that taught it.
 - Complete a self-assessment worksheet and identify your weakest area and the
   exact day to revisit.
 
 ## Prerequisites
 
 - The Day 42 lesson (read it first — it explains the six areas this lab checks).
-- Days 1-41 of Section 1, which taught every tool the check looks for.
+- Days 1-41 of Course 1, which taught every tool the check looks for.
 - A terminal: Terminal.app (macOS), any terminal (Linux), or PowerShell/WSL
   (Windows).
 
@@ -49,7 +49,7 @@ foundation is real, and a pointer to any gap you should fill before Section 2.
 
 ## Hardware requirements
 
-Any computer that ran the rest of Section 1. The lab only *reads* system
+Any computer that ran the rest of Course 1. The lab only *reads* system
 information and runs tiny in-memory checks; it needs no minimum RAM, disk, or
 GPU.
 
@@ -118,7 +118,7 @@ bash tests/run_tests.sh
 
 - `bash examples/toolkit_check.sh` — runs the reference capstone: detects your
   OS (`uname -s`), checks for and versions the six toolkit tools mapping each
-  to its Section 1 day, then runs three skill checks (a throwaway `git init` +
+  to its Course 1 day, then runs three skill checks (a throwaway `git init` +
   commit, a `printf | grep | wc -l` pipeline, and an in-memory SQLite
   `CREATE`/`INSERT`/`SELECT`), and prints a readiness score. It is read-only
   on your real files and makes no network calls.
@@ -157,7 +157,7 @@ Operating system kernel: Darwin
 
 -- Readiness --
 Tools present: 6 / 6   Skills passed: 3 / 3
-You are ready for Section 2. Nice work finishing the foundations.
+You are ready for Course 2. Nice work finishing the foundations.
 === End of check ===
 ```
 
@@ -198,7 +198,7 @@ automatically. To reset your work, restore the starter from git:
 ## Troubleshooting
 
 See [troubleshooting.md](troubleshooting.md) — it maps every possible `[--]`
-line back to the Section 1 day that fixes it (a missing tool, an unset
+line back to the Course 1 day that fixes it (a missing tool, an unset
 editor, a failed skill check, Windows/WSL notes).
 
 ## Security notes
@@ -210,7 +210,7 @@ discarded.
 
 ## Extension exercises
 
-1. Add one more check to the completed script from a Section 1 area the
+1. Add one more check to the completed script from a Course 1 area the
    starter does not cover — e.g. a global git identity (`git config --get
    user.name`), or a Python JSON parse (`python3 -c 'import json; ...'`) — map
    it to its day, degrade gracefully, and add a matching test assertion.
@@ -223,5 +223,5 @@ discarded.
 
 - **Previous day:** Day 41 — Thinking in Automation: Scripts, Hooks, and
   Pipelines (`labs/sections/computing-foundations/day-041-thinking-in-automation-scripts-hooks-and/`).
-- **Next day:** Day 43 — the first lesson of Section 2, Programming with
+- **Next day:** Day 43 — the first lesson of Course 2, Programming with
   Python (`labs/sections/programming-with-python/`, to be written).

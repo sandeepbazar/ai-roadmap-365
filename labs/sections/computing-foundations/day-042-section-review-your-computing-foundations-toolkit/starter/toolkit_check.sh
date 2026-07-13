@@ -61,7 +61,7 @@ fi
 if command -v python3 >/dev/null 2>&1; then
   report_tool "python3" "$(python3 --version 2>&1)" "maps to Day 15+: used across the course"
 else
-  report_tool "python3" "" "maps to Day 15+: install python3 before Section 2"
+  report_tool "python3" "" "maps to Day 15+: install python3 before Course 2"
 fi
 if command -v sqlite3 >/dev/null 2>&1; then
   report_tool "sqlite3" "$(sqlite3 --version 2>/dev/null | cut -d' ' -f1)" "maps to Day 39: Data Storage"
@@ -155,7 +155,7 @@ echo "Tools present: ${tools_present} / ${tools_total}   Skills passed: ${skills
 #        && command -v python3 >/dev/null 2>&1
 # ===========================================================================
 if FILL_ME_IN; then
-  echo "You are ready for Section 2. Nice work finishing the foundations."
+  echo "You are ready for Course 2. Nice work finishing the foundations."
 else
   echo "Almost there — revisit the day(s) shown next to any [--] line above, then re-run."
 fi

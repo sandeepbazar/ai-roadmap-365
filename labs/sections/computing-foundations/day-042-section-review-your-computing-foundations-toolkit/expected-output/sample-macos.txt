@@ -17,5 +17,5 @@ Operating system kernel: Darwin
 
 -- Readiness --
 Tools present: 6 / 6   Skills passed: 3 / 3
-You are ready for Section 2. Nice work finishing the foundations.
+You are ready for Course 2. Nice work finishing the foundations.
 === End of check ===

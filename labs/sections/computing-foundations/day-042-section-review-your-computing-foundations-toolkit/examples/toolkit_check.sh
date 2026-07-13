@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Day 042 lab — Computing Foundations Toolkit Check (completed reference).
 #
-# A capstone for Section 1: it inspects your own machine for the core tools
+# A capstone for Course 1: it inspects your own machine for the core tools
 # you learned across days 1-41, reports each tool's version and the day that
 # taught it, then runs three live skill checks that exercise skills from
 # across the section (make a git repo, run a shell pipeline, query SQLite).
@@ -58,7 +58,7 @@ fi
 if command -v python3 >/dev/null 2>&1; then
   report_tool "python3" "$(python3 --version 2>&1)" "maps to Day 15+: used across the course"
 else
-  report_tool "python3" "" "maps to Day 15+: install python3 before Section 2"
+  report_tool "python3" "" "maps to Day 15+: install python3 before Course 2"
 fi
 
 # --- sqlite3 (Day 39) ---
@@ -133,9 +133,9 @@ echo
 echo "-- Readiness --"
 echo "Tools present: ${tools_present} / ${tools_total}   Skills passed: ${skills_passed} / ${skills_total}"
 
-# Core tools that Section 2 truly needs: git, python3, and a shell + pipeline.
+# Core tools that Course 2 truly needs: git, python3, and a shell + pipeline.
 if [ "${git_skill}" = "yes" ] && [ "${pipe_skill}" = "yes" ] && command -v python3 >/dev/null 2>&1; then
-  echo "You are ready for Section 2. Nice work finishing the foundations."
+  echo "You are ready for Course 2. Nice work finishing the foundations."
 else
   echo "Almost there — revisit the day(s) shown next to any [--] line above, then re-run."
 fi
