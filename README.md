@@ -21,7 +21,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 
 ## Released labs
 
-**63 of 365 days released.** Expand a course, then a subsection, to find a lab.
+**77 of 365 days released.** Expand a course, then a subsection, to find a lab.
 
 <details>
 <summary><h3>Course01 · Computing Foundations — 42 lab(s)</h3></summary>
@@ -114,7 +114,7 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 </details>
 
 <details>
-<summary><h3>Course02 · Programming with Python — 21 lab(s)</h3></summary>
+<summary><h3>Course02 · Programming with Python — 35 lab(s)</h3></summary>
 
 <details>
 <summary>Days 43-49 · Python Setup and First Programs</summary>
@@ -158,10 +158,38 @@ Labs use free and open-source tools wherever possible; any exception (for exampl
 | 63 | [Designing a Small Program Well](labs/sections/programming-with-python/day-063-designing-a-small-program-well/README.md) |
 
 </details>
+<details>
+<summary>Days 64-70 · Files, Errors, and Object-Oriented Python</summary>
+
+| Day | Lab |
+| --- | --- |
+| 64 | [Reading and Writing Files](labs/sections/programming-with-python/day-064-reading-and-writing-files/README.md) |
+| 65 | [CSV and JSON in the Real World](labs/sections/programming-with-python/day-065-csv-and-json-in-the-real/README.md) |
+| 66 | [Exceptions and Error Handling Strategy](labs/sections/programming-with-python/day-066-exceptions-and-error-handling-strategy/README.md) |
+| 67 | [Classes and Objects](labs/sections/programming-with-python/day-067-classes-and-objects/README.md) |
+| 68 | [Inheritance, Composition, and Dunder Methods](labs/sections/programming-with-python/day-068-inheritance-composition-and-dunder-methods/README.md) |
+| 69 | [Dataclasses and Type Hints](labs/sections/programming-with-python/day-069-dataclasses-and-type-hints/README.md) |
+| 70 | [Modeling a Domain with Objects](labs/sections/programming-with-python/day-070-modeling-a-domain-with-objects/README.md) |
+
+</details>
+<details>
+<summary>Days 71-77 · Testing and Code Quality</summary>
+
+| Day | Lab |
+| --- | --- |
+| 71 | [Why Test, and pytest Basics](labs/sections/programming-with-python/day-071-why-test-and-pytest-basics/README.md) |
+| 72 | [Fixtures, Parametrization, and Test Design](labs/sections/programming-with-python/day-072-fixtures-parametrization-and-test-design/README.md) |
+| 73 | [Test-Driven Development](labs/sections/programming-with-python/day-073-test-driven-development/README.md) |
+| 74 | [Mocking and Testing Boundaries](labs/sections/programming-with-python/day-074-mocking-and-testing-boundaries/README.md) |
+| 75 | [Static Typing with mypy](labs/sections/programming-with-python/day-075-static-typing-with-mypy/README.md) |
+| 76 | [Linting and Formatting with Ruff](labs/sections/programming-with-python/day-076-linting-and-formatting-with-ruff/README.md) |
+| 77 | [Quality Gates for a Python Project](labs/sections/programming-with-python/day-077-quality-gates-for-a-python-project/README.md) |
 
 </details>
 
-63 days released so far; a new day is released with each blog post.
+</details>
+
+77 days released so far; a new day is released with each blog post.
 
 ## The course
 
@@ -170,3 +198,4 @@ Each daily lesson is published on the course blog (link coming with the first pu
 ## License and contributions
 
 © Sandeep Bazar. Lab content is provided for personal learning alongside the course; issues and corrections are welcome via GitHub issues.
+
